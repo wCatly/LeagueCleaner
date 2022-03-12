@@ -1,0 +1,2 @@
+C:\Users\wcat\Desktop\logclean\shellby\obj\Release\shellby.csproj.AssemblyReference.cache
+C:\Users\wcat\Desktop\logclean\shellby\obj\Release\shellby.csproj.SuggestedBindingRedirects.cache
